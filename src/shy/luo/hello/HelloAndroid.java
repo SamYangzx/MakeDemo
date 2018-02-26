@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
  
 public class HelloAndroid extends Activity {
-    private final static String LOG_TAG = "shy.luo.hello.HelloAndroid";
+    private final static String LOG_TAG = "fenghe";
  
     @Override
     public void onCreate(Bundle savedInstanceState) {
