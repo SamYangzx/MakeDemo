@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Base application theme. -->
-    <!--<style name="AppTheme" parent="Theme.AppCompat.Light">-->
-    <style name="AppTheme" parent="@com.gome:style/Theme.GOME.Light">
+    <style name="AppTheme" parent="android:Theme.Light">
+    <!--<style name="AppTheme" parent="@com.gome:style/Theme.GOME.Light">-->
         <!-- Customize your theme here. -->
         <!--<item name="colorPrimary">@color/colorPrimary</item>-->
         <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
